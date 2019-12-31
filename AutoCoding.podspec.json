@@ -12,7 +12,8 @@
   "platforms": {
     "ios": "4.3",
     "osx": "10.6",
-    "tvos": "9.0"
+    "tvos": "9.0",
+    "watchos": "4.0"
   },
   "source_files": "AutoCoding",
   "requires_arc": false
